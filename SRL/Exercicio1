@@ -1,0 +1,17 @@
+1.R: 
+Partilha de Ficheiros( Permite que os utilizadores acedam as pastas e ficheiros "permissões de leitura, escrita e modificação").
+Autenticação de fatores( Garante que apenas utilizadores autorizados acedam a rede e aos seus recursos).  
+Gestão de permissões e recursos( Permite oque fazer na rede: aceder a ficheiros, imprimir, instalar, software, etc...). 
+
+2.R: 
+O funcionário deve perguntar ao utilizador para aceder a pasta do departamento de RH,
+Porque o utilizador é o proprietário.
+
+3.R: 
+O SON obriga o utilizador a efectuar a sua senha e email.
+
+4.R: 
+É controlada porque caso de envio errado. O papel do SON verifica se é o funcionário certo.
+
+5.R: 
+O SON identifica o ultilizador atráves da password e se for um intruso, envia a informação ao Admi.
