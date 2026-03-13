@@ -6,3 +6,4 @@ Groupo 789:
 Nicollas Miranda
 Chanaya Massango
 Rosalina Lopes Rodrigues
+Manuel Soares
